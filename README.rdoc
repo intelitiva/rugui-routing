@@ -1,0 +1,3 @@
+= RuGUI Routing
+
+RuGUI Routing is a plugin that adds the routing support to RuGUI applications.
