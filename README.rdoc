@@ -1,3 +1,1 @@
-= RuGUI Routing
-
-RuGUI Routing is a plugin that adds the routing support to RuGUI applications.
+DEPRECATED: This repository has been moved to http://github.com/rugui/rugui-routing
